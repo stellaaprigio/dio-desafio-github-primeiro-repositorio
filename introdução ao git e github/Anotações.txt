@@ -1,0 +1,11 @@
+Comandos git 
+Windows/linux 
+dir/ls: lista de diretorios
+cd: busca de diretorios, navegação entre as pastas
+cls/clear/ctrl L: limpeza do terminal
+mkdir: criar pasta
+echo: criar arquivo
+del: deleta (windows) repositório
+rmdir: remove diretorios
+rm (linux) remove
+rf (linux) recursivo force, deleta todas as pastas sem mensagem de confirmação.
